@@ -68,7 +68,7 @@ To build a machine learning model using logistic regression that can accurately 
 ## 📎 Project Notebook
 
 Click to open in Colab:  
-👉 [Google Colab Notebook Link](PASTE_YOUR_COLAB_LINK_HERE)
+👉 [Google Colab Notebook Link](https://colab.research.google.com/drive/1q5mQc3Kl3QW0LLiY5ZdtkEc9k9F_A5yT?usp=sharing)
 
 ---
 
